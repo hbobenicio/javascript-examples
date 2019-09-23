@@ -1,0 +1,29 @@
+{
+  "name": "logging-winston",
+  "version": "0.1.0",
+  "description": "Node project example demonstrating how to do logging with the winston package",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbobenicio/javascript-examples.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "logging",
+    "log",
+    "winston"
+  ],
+  "author": "hbobenicio <hbobenicio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbobenicio/javascript-examples/issues"
+  },
+  "homepage": "https://github.com/hbobenicio/javascript-examples#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
